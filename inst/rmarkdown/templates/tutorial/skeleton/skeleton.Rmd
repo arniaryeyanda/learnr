@@ -67,7 +67,7 @@ quiz(
   question("Which of the R packages listed below are used to create plots?",
     answer("lattice", correct = TRUE),
     answer("tools"),
-    answer("stats"),
+    answer("stats", correct = TRUE),
     answer("grid", correct = TRUE)
   )
 )
